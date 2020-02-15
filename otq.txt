@@ -1,0 +1,12 @@
+student                   Teacher              class                       result table
+*user nname           *user name          *abstract                   *marks
+*password                *password                                                                 
+*question paper
+.paperid(primary key)
+.question id
+.max marks
+.time limit
+.questiontype
+->objective
+->subjective
+
